@@ -1,138 +1,113 @@
 <div align="center">
 
-👋 Hey there, I'm Charanguru!
-💻 Full Stack Developer | Tech Enthusiast | AI Explorer
+Hi, I'm Charanguru 👋
+Full Stack Developer | MERN Stack Enthusiast | AI Explorer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Applications;Exploring+AI+Agents+%26+Automation;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Exploring+AI+Agents+%26+Automation;Turning+Ideas+Into+Digital+Experiences" />
 
-Turning ideas into interactive digital experiences.
+![GitHub](https://img.shields.io/badge/GitHub-0CHARANGURU-181717?style=flat-square&logo=github)
 
-![GitHub](https://img.shields.io/badge/GitHub-0CHARANGURU-181717?style=for-the-badge&logo=github)
+Building useful things with code, creativity, and curiosity.
 
 </div>
 
-🚀 About Me
+👨‍💻 About Me
 
-I'm Charanguru, a passionate tech enthusiast and Full Stack Developer who loves building modern, scalable, and interactive applications.
+I'm Charanguru, a passionate Full Stack Developer interested in building modern, scalable, and interactive applications.
 
-💻 Full Stack Developer with experience in MERN and modern web technologies.
-⚡ Passionate about building responsive and scalable applications.
-🔌 Interested in real-time applications, APIs, and backend architecture.
-🤖 Exploring AI Agents, Agentic Workflows, and intelligent automation.
-🐳 Interested in containerization and code quality.
-🌱 Always learning, experimenting, and building new things.
-"Code. Create. Experiment. Learn. Repeat."
-💻 Tech Stack & Technologies
-🎨 Frontend Development
+💻 Experienced with MERN stack and modern web technologies.
+⚡ Interested in responsive UI and scalable backend development.
+🔌 Working with APIs, GraphQL, and real-time applications.
+☁️ Exploring Cloudinary for cloud-based image and media management.
+🤖 Learning AI Agents, Agentic Workflows, and automation.
+🐳 Interested in Docker and code quality practices.
+"Learn continuously. Build consistently. Improve every day."
+🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
-</p>
-
-⚙️ Backend Development
+Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
 </p>
+
+Backend
 
 <p>
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
 </p>
 
-🗄️ Databases & ORM
+APIs & Communication
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+<img src="https://img.shields.io/badge/REST%20API-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-333333?style=flat-square" />
 </p>
 
-Object-Relational Mapping (ORM)
-🐳 DevOps, Code Quality & Version Control
+Database & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github" />
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark" />
 </p>
 
-Docker & Containerization
-SonarQube & Code Quality Analysis
-Git & GitHub
-🧑‍💻 IDEs & Development Tools
+Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,jupyter" />
-<img src="https://img.shields.io/badge/Spyder%20IDE-FF0000?style=for-the-badge&logo=spyderide&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
 </p>
 
-Visual Studio Code
-Jupyter Notebook
-Spyder IDE
+Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,jupyter&theme=dark" />
+<img src="https://img.shields.io/badge/Spyder%20IDE-FF0000?style=flat-square&logo=spyderide&logoColor=white" />
+</p>
+
 🤖 Currently Exploring
-AI Agents & Agentic Workflows
+AI Agents and Agentic Workflows
 AI-powered applications
 Intelligent automation
 Modern backend architectures
-Docker-based development workflows
-Code quality and software engineering practices
-📂 My Projects
+Docker and containerization
+Software quality and clean code
+🚀 Projects
 
-I love experimenting with technologies and transforming ideas into real-world applications.
+I enjoy experimenting with new technologies and turning ideas into real-world applications.
 
-Explore my projects and development journey:
+Explore my work:
 
-<div align="center">
+![Repositories](https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github)
 
-![Explore Repositories](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github)
-
-</div>
-
-📊 GitHub Analytics
+📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=0CHARANGURU&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0CHARANGURU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0CHARANGURU&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0CHARANGURU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=0CHARANGURU&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=0CHARANGURU&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
-🏆 GitHub Achievements
+🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=0CHARANGURU&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
-🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/0CHARANGURU/0CHARANGURU/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
-🌐 Let's Connect & Collaborate
-
-<div align="center">
-
-<a href="https://github.com/0CHARANGURU">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 </div>
 
 <div align="center">
 
-💫 Keep Learning. Keep Building. Keep Innovating.
+Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=0CHARANGURU&style=for-the-badge&color=blueviolet" />
+Keep Learning • Keep Building • Keep Growing
 
-Thanks for visiting my profile! ❤️
+<img src="https://komarev.com/ghpvc/?username=0CHARANGURU&style=flat-square&color=38BDF8" />
 
 </div>
