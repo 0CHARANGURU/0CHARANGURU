@@ -26,7 +26,7 @@ I'm Charanguru, a passionate tech enthusiast and Full Stack Developer who loves 
 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,scss,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
 </p>
 
 ⚙️ Backend Development
